@@ -6,7 +6,7 @@ def palavrasPorMinuto (contagemDePalavras,inicioDigitacao,fimDigitacao):
 def tempoGasto(inicioTempo,finalTempo):
     return finalTempo - inicioTempo
 
-print(round(palavrasPorMinuto(1797,30,18)))
+print(round(abs((palavrasPorMinuto(1797,30,18)))))
 
-print(round(tempoGasto(18,30)))
+print(round((tempoGasto(18,30))))
 
