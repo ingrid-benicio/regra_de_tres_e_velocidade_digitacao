@@ -9,7 +9,7 @@ def numeroDesconhecido (numerador1,denominador1,denominador2):
     
 
 
-print(numeroDesconhecido(1,2,3))
+print(numeroDesconhecido(7,8,5))
 
 
 
